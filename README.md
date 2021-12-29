@@ -19,11 +19,13 @@ Concept design for plant store, simple and well-designed website made by using H
 The UI is taken from [here.](https://www.uplabs.com/posts/plant-store-landing-page-e27e754f-e968-4d16-853b-b72c13f4a273)
 <br>
 <p float="left">
-<img src="https://user-images.githubusercontent.com/57604289/147663011-5a4ff780-0600-4e6d-8a1d-237806c8bb3a.png" width="800px" height="400px">
-<img src="https://user-images.githubusercontent.com/57604289/147663094-04f6a1f9-5f32-4ef7-9b96-4f9160241516.png" width="800px" height="400px">
+<img src="https://user-images.githubusercontent.com/57604289/147663011-5a4ff780-0600-4e6d-8a1d-237806c8bb3a.png" width="800px" >
+<img src="https://user-images.githubusercontent.com/57604289/147663094-04f6a1f9-5f32-4ef7-9b96-4f9160241516.png" width="800px" >
 </p>
 <br>
-### Website ScreenShoot<br>
+
+### Website ScreenShoot
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/57604289/147662858-f04082b9-1c1e-4172-a658-abe5b2f2d192.png" width="400px" height="200px">
 <img src="https://user-images.githubusercontent.com/57604289/147663373-3893c9cd-0753-4e50-92f2-193c0cb16ad6.png" width="400px" height="200px">
